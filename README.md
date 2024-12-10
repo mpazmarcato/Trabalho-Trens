@@ -18,11 +18,10 @@ Este projeto é parte do curso **Sistemas Operacionais (IMD0036)** do **Institut
    - 0: trem parado.
    - 200: velocidade máxima.
 5. Interface gráfica contendo:
-   - Malha ferroviária (Figura 1 do enunciado).
-   - Controles de velocidade (Figura 3 do enunciado).
+   - Malha ferroviária.
+   - Controles de velocidade.
 
 ### Implementação
-- Exclusão dos botões "Ligar" e "Parar" do código base fornecido.
 - Início automático do movimento dos trens ao abrir o executável.
 
 ## Critérios de Avaliação
@@ -34,27 +33,10 @@ Este projeto é parte do curso **Sistemas Operacionais (IMD0036)** do **Institut
   - Submissões plagiadas.
   - Vídeo ou itens obrigatórios ausentes.
 
-## Envio
-- **Itens obrigatórios:**
-  - Código completo.
-  - Nome dos componentes.
-  - Vídeo de até 3 minutos demonstrando a execução com diferentes velocidades.
-
-### Instruções para o Vídeo
-1. Demonstrar o funcionamento em:
-   - Velocidade mínima para todos os trens.
-   - Velocidade máxima para todos os trens.
-   - Velocidades variadas para mostrar diferentes composições.
-2. Explicar brevemente como colisões e deadlocks foram tratados.
-3. Garantir ao menos 5 segundos de demonstração para cada cenário.
-
 ## Tecnologias Utilizadas
 - Linguagem: C++.
 - Framework: **Qt** para interface gráfica.
 - Gerenciamento de threads e sincronização com **mutexes** e **semáforos**.
-
-## Autores
-- Nome dos componentes do grupo.
 
 ---
 
