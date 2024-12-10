@@ -24,15 +24,6 @@ Este projeto é parte do curso **Sistemas Operacionais (IMD0036)** do **Institut
 ### Implementação
 - Início automático do movimento dos trens ao abrir o executável.
 
-## Critérios de Avaliação
-- **Nota mínima será atribuída a:**
-  - Código que não compila.
-  - Código sem tratamento correto de regiões críticas.
-  - Código sem uso de mutex ou semáforos.
-  - Código enviado fora do prazo ou em outro meio que não o SIGAA.
-  - Submissões plagiadas.
-  - Vídeo ou itens obrigatórios ausentes.
-
 ## Tecnologias Utilizadas
 - Linguagem: C++.
 - Framework: **Qt** para interface gráfica.
